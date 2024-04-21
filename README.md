@@ -1,7 +1,7 @@
 # gruber-darker.vim
 
-> [!WARNING] This Vim theme is uncompleted.
-> Keep your expectations realistic.
+> [!WARNING]
+> This Vim theme is uncompleted. Keep your expectations realistic.
 
 This is a port of [rexim's
 extension](https://github.com/rexim/gruber-darker-theme) of the Gruber Darker
