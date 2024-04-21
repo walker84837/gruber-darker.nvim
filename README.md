@@ -5,7 +5,7 @@
 
 This is a port of [rexim's
 extension](https://github.com/rexim/gruber-darker-theme) of the Gruber Darker
-theme.
+theme to Vim.
 
 ## Known Bugs
 
