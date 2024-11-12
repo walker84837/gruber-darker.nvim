@@ -1,11 +1,9 @@
-# gruber-darker.vim
+# gruber-darker.nvim
 
 > [!WARNING]
-> This Vim theme is uncompleted. Keep your expectations realistic.
+> This Neovim theme is uncompleted. Keep your expectations realistic.
 
-This is a port of [rexim's
-extension](https://github.com/rexim/gruber-darker-theme) of the Gruber Darker
-theme to Vim.
+This is a port of [Alexey Kutepov's extension](https://github.com/rexim/gruber-darker-theme) of the Gruber Darker theme to Neovim.
 
 ## Known Bugs
 
@@ -25,10 +23,8 @@ If you'd like to contact me, you can message me via Matrix at
 
 ## Preview
 
-![Image showing an QuickSort function in C with
-gruber-darker.vim](images/image0.png)
+![Image showing an QuickSort function in C with gruber-darker.vim](images/image0.png)
 
 ## License
 
-This theme is licensed under the [Vim licence](LICENSE.md). You can get a copy
-[here](https://choosealicense.com/licenses/vim/)
+This theme is licensed under the [MIT licence](LICENSE.md).
