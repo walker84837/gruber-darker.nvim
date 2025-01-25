@@ -1,7 +1,7 @@
 # gruber-darker.nvim
 
 > [!WARNING]
-> This Neovim theme is uncompleted. Keep your expectations realistic.
+> This Neovim theme is incomplete. Keep your expectations realistic.
 
 This is a port of [Alexey Kutepov's extension](https://github.com/rexim/gruber-darker-theme) of the Gruber Darker theme to Neovim.
 
