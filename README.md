@@ -1,7 +1,7 @@
 # gruber-darker.nvim
 
 > [!WARNING]
-> This Neovim theme is incomplete. Keep your expectations realistic.
+> This Neovim theme is under development. Breaking changes may happen at any time.
 
 This is a port of [Alexey Kutepov's extension](https://github.com/rexim/gruber-darker-theme) of the Gruber Darker theme to Neovim.
 
@@ -13,7 +13,8 @@ lazy.nvim:
     "walker84837/gruber-darker.nvim",
     lazy = false,
     priority = 1000,
-    config = function() -- Use this if you plan on using this theme every time
+    -- Set up config if you plan on using this theme every time
+    config = function()
         vim.cmd('colorscheme gruber-darker')
     end,
 }
@@ -23,8 +24,7 @@ lazy.nvim:
 
 Contributions are welcome\!
 
-If you'd like to contact me, you can message me via Matrix at
-`@winlogon.exe:matrix.org` or via [Telegram](https://t.me/winlogon3).
+If you'd like to contact me, you can message me via Matrix at `@winlogon.exe:matrix.org` or via [Telegram](https://t.me/winlogon3).
 
 ## Preview
 
